@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+
+}
+
+button{
+  cursor: pointer;
+}
+
+main {
+  background-color: #05071e;
+padding-top: 90px;
+padding-bottom: 90px;
+}
+
+
+
+
+
+
